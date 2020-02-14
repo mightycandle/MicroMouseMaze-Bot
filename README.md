@@ -1,4 +1,4 @@
-# MicroMouseBot
+# MicroMouseMaze Bot
 
 The code written in Arduino IDE for the MicroMouse bot on Arduino Uno with installed motor drivers. The components used are three ultrasonic sensors to detect obstacles (walls) in the front, left and right directions and four motors for the four wheels.
 
